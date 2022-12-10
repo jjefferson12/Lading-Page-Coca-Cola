@@ -183,6 +183,8 @@ header .navigation li a
     .content .imgBox
     {
         max-width: 100%;
+        width: auto;
+        position: relative;
     }
     .swiper-slide
     {

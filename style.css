@@ -204,7 +204,7 @@ header .navigation li a
         position: relative;
         width: 30px;
         height: 30px;
-        background: url(menu.png);
+        background: url();
         background-size: 30px;
         background-repeat: no-repeat;
         background-position: center;
